@@ -1,0 +1,27 @@
+{
+  "name": "console-up",
+  "version": "1.0.0",
+  "description": "Some useful functionalities for your console",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odtorres/console-up.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "logger"
+  ],
+  "author": "Oscar Daniel Torres Hdez <odtorres891118@gmail.com> (https://github.com/odtorres)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odtorres/console-up/issues"
+  },
+  "homepage": "https://github.com/odtorres/console-up#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
