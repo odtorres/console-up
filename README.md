@@ -11,8 +11,8 @@ npm install console-up
 require("console-up")({
     dateFormat: "YYYY-MM-DD THH:mm:ssZ",
     fileLogger: {
-        fileInfo: "./my.log",
-        fileError: "./apperr.log",
+        fileInfo: "./myapp.log",
+        fileError: "./myapperror.log",
         log: true,
         error: true,
         warn: true,
