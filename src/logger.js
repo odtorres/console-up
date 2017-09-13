@@ -84,7 +84,7 @@ const doProgress = function () {
             process.stdout.clearLine()
             process.stdout.cursorTo(0)
             process.stdout.write("[")
-            for (let i = 0; i < number; i++)
+            for (let i = 0; i < number && i < 99; i++)
                 process.stdout.write("=")
             process.stdout.write(">")
             for (let i = number; i < 100; i++)
