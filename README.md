@@ -8,7 +8,7 @@ npm install console-up
 
 ## Usage
 ```
-require("./src/logger.js")({
+require("console-up")({
     dateFormat: "YYYY-MM-DD THH:mm:ssZ",
     fileLogger: {
         fileInfo: "./my.log",
