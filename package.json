@@ -1,6 +1,6 @@
 {
   "name": "console-up",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Some useful functionalities for your console",
   "main": "index.js",
   "scripts": {
